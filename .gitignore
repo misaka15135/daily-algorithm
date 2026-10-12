@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# 编译产物
+*.o
+*.out
+*.dSYM/
+a.out
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
