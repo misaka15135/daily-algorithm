@@ -73,9 +73,9 @@
 
 **日期**：2026-10-19 ～ 2026-10-25　**分类文件夹**：[01-array-hash](01-array-hash/README.md)
 
-- [ ] **10.19（周一）**：[1](https://leetcode.cn/problems/two-sum/) 两数之和 (E) · [217](https://leetcode.cn/problems/contains-duplicate/) 存在重复元素 (E) · [560](https://leetcode.cn/problems/subarray-sum-equals-k/) 和为 K 的子数组 (M)
-- [ ] **10.20（周二）**：[119](https://leetcode.cn/problems/pascals-triangle-ii/) 杨辉三角 II (E) · [169](https://leetcode.cn/problems/majority-element/) 多数元素 (E) · [128](https://leetcode.cn/problems/longest-consecutive-sequence/) 最长连续序列 (M)
-- [ ] **10.21（周三）**：[349](https://leetcode.cn/problems/intersection-of-two-arrays/) 两个数组的交集 (E) · [448](https://leetcode.cn/problems/find-all-numbers-disappeared-in-an-array/) 找到所有数组中消失的数字 (E) · [189](https://leetcode.cn/problems/rotate-array/) 轮转数组 (M)
+- [x] **10.19（周一）**：[1](https://leetcode.cn/problems/two-sum/) 两数之和 (E) · [217](https://leetcode.cn/problems/contains-duplicate/) 存在重复元素 (E) · [560](https://leetcode.cn/problems/subarray-sum-equals-k/) 和为 K 的子数组 (M)
+- [x] **10.20（周二）**：[119](https://leetcode.cn/problems/pascals-triangle-ii/) 杨辉三角 II (E) · [169](https://leetcode.cn/problems/majority-element/) 多数元素 (E) · [128](https://leetcode.cn/problems/longest-consecutive-sequence/) 最长连续序列 (M)
+- [x] **10.21（周三）**：[349](https://leetcode.cn/problems/intersection-of-two-arrays/) 两个数组的交集 (E) · [448](https://leetcode.cn/problems/find-all-numbers-disappeared-in-an-array/) 找到所有数组中消失的数字 (E) · [189](https://leetcode.cn/problems/rotate-array/) 轮转数组 (M)
 - [ ] **10.22（周四）**：[242](https://leetcode.cn/problems/valid-anagram/) 有效的字母异位词 (E) · [36](https://leetcode.cn/problems/valid-sudoku/) 有效的数独 (M) · [54](https://leetcode.cn/problems/spiral-matrix/) 螺旋矩阵 (M)
 - [ ] **10.23（周五）**：[118](https://leetcode.cn/problems/pascals-triangle/) 杨辉三角 (E) · [48](https://leetcode.cn/problems/rotate-image/) 旋转图像 (M) · [73](https://leetcode.cn/problems/set-matrix-zeroes/) 矩阵置零 (M)
 - [ ] **10.24（周六）**：[350](https://leetcode.cn/problems/intersection-of-two-arrays-ii/) 两个数组的交集 II (E) · [49](https://leetcode.cn/problems/group-anagrams/) 字母异位词分组 (M) · [41](https://leetcode.cn/problems/first-missing-positive/) 缺失的第一个正数 (H)
